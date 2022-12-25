@@ -1,5 +1,5 @@
 name: Feature Request
-description: Suggest a feature for Saikou
+description: Suggest a feature for gojo
 labels: enhancement
 body:
 
@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Please make sure that you have read the entire README.
-        Especially the [Planned Stuff](https://github.com/saikou-app/saikou#planned-stuff) and [Rejected Stuff](https://github.com/saikou-app/saikou#rejected-stuff).
+        Especially the [Planned Stuff](https://github.com/gojo-app/gojo#planned-stuff) and [Rejected Stuff](https://github.com/gojo-app/gojo#rejected-stuff).
 
   - type: input
     attributes:

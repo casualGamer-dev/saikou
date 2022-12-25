@@ -28,7 +28,7 @@
                 android:background="@color/bg"
                 android:focusable="false">
 
-                <ani.saikou.NoGestureSubsamplingImageView
+                <ani.gojo.NoGestureSubsamplingImageView
                     android:id="@+id/imgProgImageNoGestures2"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -57,7 +57,7 @@
                 android:background="@color/bg"
                 android:focusable="false">
 
-                <ani.saikou.NoGestureSubsamplingImageView
+                <ani.gojo.NoGestureSubsamplingImageView
                     android:id="@+id/imgProgImageNoGestures1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"

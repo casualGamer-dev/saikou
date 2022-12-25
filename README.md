@@ -1,13 +1,13 @@
-# **Saikou**
+# **gojo**
 <p align="center">
    <a href="https://discord.gg/5TXAWTU5qr"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://telegram.me/saikou_app" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-   <a href="https://github.com/saikou-app/saikou/releases"><img src="https://img.shields.io/github/downloads/saikou-app/saikou/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
+   <a href="https://telegram.me/gojo_app" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+   <a href="https://github.com/gojo-app/gojo/releases"><img src="https://img.shields.io/github/downloads/gojo-app/gojo/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
 
-Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an [Anilist](https://anilist.co/) only client, which also lets you stream-download Anime & Manga. 
+gojo is crafted based on simplistic yet state-of-the-art elegance. It is an [Anilist](https://anilist.co/) only client, which also lets you stream-download Anime & Manga. 
 <br><br>
-<i>Saikou (最高; Sai-kō) literally means the best in japanese. Well, we would like to say this is the best open source app for anime and manga on Android, but hey, Try it out yourself & judge!
+<i>gojo (最高; Sai-kō) literally means the best in japanese. Well, we would like to say this is the best open source app for anime and manga on Android, but hey, Try it out yourself & judge!
 </i> 
 <br>
 <br>
@@ -17,9 +17,9 @@ Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an [A
 
 > **Warning**
 > 
-> Please do not attempt to upload Saikou or any of it's forks on Playstore or any other Android appstores on the internet. Doing so, may infringe their terms and conditions. This may result to legal action or immediate take-down of the app.
+> Please do not attempt to upload gojo or any of it's forks on Playstore or any other Android appstores on the internet. Doing so, may infringe their terms and conditions. This may result to legal action or immediate take-down of the app.
 
-<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-175525.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-175542.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-175551.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-175600.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-183102.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-183112.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-183120.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-182352.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-182421.png?raw=true" style="width: 23%;margin:16px;" />
+<img src="https://github.com/gojo-app/gojo-app.github.io/blob/main/assets/Screenshot_20220330-175525.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/gojo-app/gojo-app.github.io/blob/main/assets/Screenshot_20220330-175542.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/gojo-app/gojo-app.github.io/blob/main/assets/Screenshot_20220330-175551.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/gojo-app/gojo-app.github.io/blob/main/assets/Screenshot_20220330-175600.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/gojo-app/gojo-app.github.io/blob/main/assets/Screenshot_20220330-183102.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/gojo-app/gojo-app.github.io/blob/main/assets/Screenshot_20220330-183112.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/gojo-app/gojo-app.github.io/blob/main/assets/Screenshot_20220330-183120.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/gojo-app/gojo-app.github.io/blob/main/assets/Screenshot_20220330-182352.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/gojo-app/gojo-app.github.io/blob/main/assets/Screenshot_20220330-182421.png?raw=true" style="width: 23%;margin:16px;" />
 
 
 ## APP FEATURES
@@ -127,26 +127,26 @@ Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an [A
 
 ### Official Telegram Group
 
-https://telegram.me/saikou_app
+https://telegram.me/gojo_app
 
 ### VISIT FOR MORE INFORMATION:-
 
-https://saikou.me/
+https://gojo.me/
 
 ## DISCLAIMER
 
-* Saikou only scrapes links from various websites and makes it easier for users to find anime and manga. 
+* gojo only scrapes links from various websites and makes it easier for users to find anime and manga. 
 
-* Saikou or any of its developer/staff doesn't host any of the contents found inside Saikou. Any and all images and anime/manga information found in the app are taken from various public APIs (AniList, MyAnimeList, Kitsu). 
+* gojo or any of its developer/staff doesn't host any of the contents found inside gojo. Any and all images and anime/manga information found in the app are taken from various public APIs (AniList, MyAnimeList, Kitsu). 
 
-* Furthermore, all of the anime/manga links found in Saikou are taken from various 3rd party anime hosting websites.
+* Furthermore, all of the anime/manga links found in gojo are taken from various 3rd party anime hosting websites.
 
-* Saikou or it's owners aren't liable for any misuse of any of the contents found inside or outside of the app and cannot be held accountable for the distribution of any of the contents found inside the app. 
+* gojo or it's owners aren't liable for any misuse of any of the contents found inside or outside of the app and cannot be held accountable for the distribution of any of the contents found inside the app. 
 
-* By using Saikou, you comply to the fact that the developer of the app is not responsible for any of the contents found in the app; nonetheless they may or may not be from their legitimate sources. 
+* By using gojo, you comply to the fact that the developer of the app is not responsible for any of the contents found in the app; nonetheless they may or may not be from their legitimate sources. 
 
 * If the internet infringement issues are involved, please contact the source website. The developer does not assume any legal responsibility.
 
 ## License
 
-Saikou is licensed under the [GNU General Public License v3.0](LICENSE.md)
+gojo is licensed under the [GNU General Public License v3.0](LICENSE.md)

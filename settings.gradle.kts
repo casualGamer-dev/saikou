@@ -6,5 +6,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Saikou"
+rootProject.name = "GojoTV"
 include(":app")

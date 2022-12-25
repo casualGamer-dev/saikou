@@ -489,7 +489,7 @@
                         android:layout_gravity="center"
                         android:layout_margin="90dp" />
 
-                    <ani.saikou.FadingEdgeRecyclerView
+                    <ani.gojo.FadingEdgeRecyclerView
                         android:id="@+id/homeReadingRecyclerView"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -635,7 +635,7 @@
                         android:layout_gravity="center"
                         android:layout_margin="90dp" />
 
-                    <ani.saikou.FadingEdgeRecyclerView
+                    <ani.gojo.FadingEdgeRecyclerView
                         android:id="@+id/homeRecommendedRecyclerView"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -651,14 +651,14 @@
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/homeSaikouContainer"
+                android:id="@+id/homegojoContainer"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
                 android:visibility="gone">
 
                 <ImageView
-                    android:id="@+id/homeSaikouIcon"
+                    android:id="@+id/homegojoIcon"
                     android:layout_width="match_parent"
                     android:layout_height="480dp"
                     android:contentDescription="@string/app_name"
