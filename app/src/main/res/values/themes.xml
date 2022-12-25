@@ -31,23 +31,23 @@
         <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="o_mr1">shortEdges</item>
     </style>
 
-    <style name="Theme.gojo" parent="Theme.Base">
+    <style name="Theme.animebinge" parent="Theme.Base">
         <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
     </style>
 
-    <style name="Theme.gojo.NoActionBar">
+    <style name="Theme.animebinge.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.gojo.AppBarOverlay" parent="Theme.gojo" />
-    <style name="Theme.gojo.PopupOverlay" parent="Theme.gojo" />
+    <style name="Theme.animebinge.AppBarOverlay" parent="Theme.animebinge" />
+    <style name="Theme.animebinge.PopupOverlay" parent="Theme.animebinge" />
 
-    <style name="Theme.gojo.NeverCutout" parent="@style/Theme.gojo.NoActionBar">
+    <style name="Theme.animebinge.NeverCutout" parent="@style/Theme.animebinge.NoActionBar">
         <item name="android:navigationBarColor">@color/nav_bg</item>
     </style>
 
-    <style name="DialogTheme" parent="Theme.gojo">
+    <style name="DialogTheme" parent="Theme.animebinge">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="windowActionBar">false</item>

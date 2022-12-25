@@ -147,7 +147,7 @@
             </LinearLayout>
 
 
-            <ani.gojo.others.Xpandable
+            <ani.animebinge.others.Xpandable
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
@@ -372,9 +372,9 @@
                     app:showText="false"
                     app:thumbTint="@color/button_switch_track" />
 
-            </ani.gojo.others.Xpandable>
+            </ani.animebinge.others.Xpandable>
 
-            <ani.gojo.others.Xpandable
+            <ani.animebinge.others.Xpandable
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
@@ -553,9 +553,9 @@
                     android:layout_marginBottom="8dp"
                     android:background="?android:attr/listDivider" />
 
-            </ani.gojo.others.Xpandable>
+            </ani.animebinge.others.Xpandable>
 
-            <ani.gojo.others.Xpandable
+            <ani.animebinge.others.Xpandable
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
@@ -696,9 +696,9 @@
                     android:layout_marginBottom="8dp"
                     android:background="?android:attr/listDivider" />
 
-            </ani.gojo.others.Xpandable>
+            </ani.animebinge.others.Xpandable>
 
-            <ani.gojo.others.Xpandable
+            <ani.animebinge.others.Xpandable
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
@@ -767,7 +767,7 @@
                     app:iconSize="24dp" />
 
 
-            </ani.gojo.others.Xpandable>
+            </ani.animebinge.others.Xpandable>
 
 
             <TextView

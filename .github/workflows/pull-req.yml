@@ -36,7 +36,7 @@ jobs:
       uses: tsickert/discord-webhook@v5.3.0
       with:
         webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        username: gojo Test Builds
-        avatar-url: "https://media.discordapp.net/attachments/927944825016311858/1046676593252253726/gojo.png"
+        username: animebinge Test Builds
+        avatar-url: "https://media.discordapp.net/attachments/927944825016311858/1046676593252253726/animebinge.png"
         content: "Latest Beta APK"
         filename: app/build/outputs/apk/debug/app-debug.apk

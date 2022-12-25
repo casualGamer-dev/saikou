@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "185630514021",
-    "project_id": "gojo-a031d",
-    "storage_bucket": "gojo-a031d.appspot.com"
+    "project_id": "animebinge-a031d",
+    "storage_bucket": "animebinge-a031d.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:185630514021:android:b565f9c8ff5db6d5f55f8c",
         "android_client_info": {
-          "package_name": "ani.gojo"
+          "package_name": "ani.animebinge"
         }
       },
       "oauth_client": [
@@ -38,7 +38,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:185630514021:android:7e9680cddc590ff3f55f8c",
         "android_client_info": {
-          "package_name": "ani.gojo.beta"
+          "package_name": "ani.animebinge.beta"
         }
       },
       "oauth_client": [

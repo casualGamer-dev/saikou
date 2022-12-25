@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="ani.gojo">
+    package="ani.animebinge">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -21,7 +21,7 @@
         android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Gojo"
+        android:theme="@style/Theme.animebinge"
         android:usesCleartextTraffic="true"
         tools:ignore="AllowBackup"
         tools:targetApi="m">
@@ -58,7 +58,7 @@
         <activity
             android:name=".media.MediaDetailsActivity"
             android:exported="true"
-            android:theme="@style/Theme.gojo.NeverCutout" />
+            android:theme="@style/Theme.animebinge.NeverCutout" />
         <activity
             android:name=".media.CharacterDetailsActivity"
             android:exported="true" />
@@ -79,7 +79,7 @@
             android:configChanges="orientation|screenSize|layoutDirection"
             android:exported="true"
             android:launchMode="singleTask">
-            <intent-filter android:label="Anilist Login for gojo">
+            <intent-filter android:label="Anilist Login for animebinge">
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.DEFAULT" />
@@ -87,7 +87,7 @@
 
                 <data
                     android:host="anilist"
-                    android:scheme="gojo" />
+                    android:scheme="animebinge" />
             </intent-filter>
         </activity>
         <activity
@@ -95,7 +95,7 @@
             android:configChanges="orientation|screenSize|layoutDirection"
             android:exported="true"
             android:launchMode="singleTask">
-            <intent-filter android:label="Read on gojo">
+            <intent-filter android:label="Read on animebinge">
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.DEFAULT" />
@@ -107,7 +107,7 @@
                 <data android:host="myanimelist.net" />
                 <data android:pathPrefix="/manga" />
             </intent-filter>
-            <intent-filter android:label="Watch on gojo">
+            <intent-filter android:label="Watch on animebinge">
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.DEFAULT" />

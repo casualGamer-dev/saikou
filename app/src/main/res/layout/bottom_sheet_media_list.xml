@@ -248,7 +248,7 @@
 
             </LinearLayout>
 
-            <ani.gojo.others.Xpandable
+            <ani.animebinge.others.Xpandable
                 android:id="@+id/mediaListExpandable"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -318,7 +318,7 @@
 
                 </LinearLayout>
 
-            </ani.gojo.others.Xpandable>
+            </ani.animebinge.others.Xpandable>
 
             <LinearLayout
                 android:layout_width="match_parent"

@@ -130,7 +130,7 @@
 
             </com.google.android.material.switchmaterial.SwitchMaterial>
 
-        <ani.gojo.others.Xpandable
+        <ani.animebinge.others.Xpandable
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
@@ -633,7 +633,7 @@
                 android:text="@string/wrap_images_info"
                 android:textSize="14sp" />
 
-        </ani.gojo.others.Xpandable>
+        </ani.animebinge.others.Xpandable>
 
 
             <TextView

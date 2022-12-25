@@ -1,5 +1,5 @@
 name: Feature Request
-description: Suggest a feature for gojo
+description: Suggest a feature for animebinge
 labels: enhancement
 body:
 
@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Please make sure that you have read the entire README.
-        Especially the [Planned Stuff](https://github.com/gojo-app/gojo#planned-stuff) and [Rejected Stuff](https://github.com/gojo-app/gojo#rejected-stuff).
+        Especially the [Planned Stuff](https://github.com/animebinge-app/animebinge#planned-stuff) and [Rejected Stuff](https://github.com/animebinge-app/animebinge#rejected-stuff).
 
   - type: input
     attributes:

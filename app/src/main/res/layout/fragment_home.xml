@@ -489,7 +489,7 @@
                         android:layout_gravity="center"
                         android:layout_margin="90dp" />
 
-                    <ani.gojo.FadingEdgeRecyclerView
+                    <ani.animebinge.FadingEdgeRecyclerView
                         android:id="@+id/homeReadingRecyclerView"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -635,7 +635,7 @@
                         android:layout_gravity="center"
                         android:layout_margin="90dp" />
 
-                    <ani.gojo.FadingEdgeRecyclerView
+                    <ani.animebinge.FadingEdgeRecyclerView
                         android:id="@+id/homeRecommendedRecyclerView"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -651,14 +651,14 @@
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/homegojoContainer"
+                android:id="@+id/homeanimebingeContainer"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
                 android:visibility="gone">
 
                 <ImageView
-                    android:id="@+id/homegojoIcon"
+                    android:id="@+id/homeanimebingeIcon"
                     android:layout_width="match_parent"
                     android:layout_height="480dp"
                     android:contentDescription="@string/app_name"

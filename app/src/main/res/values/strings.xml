@@ -1,16 +1,16 @@
 <resources>
 
-    <string name="repo">gojo-app/gojo</string>
+    <string name="repo">animebinge-app/animebinge</string>
 
-    <string name="app_name">gojo</string>
+    <string name="app_name">animebinge</string>
     <string name="slogan">The Best Anime &amp; Manga app for Android.</string>
 
     <string name="login">Login</string>
     <string name="logout">Logout</string>
 
     <string name="discord">https://discord.gg/5TXAWTU5qr</string>
-    <string name="telegram">https://telegram.me/gojo_app</string>
-    <string name="github">https://github.com/gojo-app/gojo</string>
+    <string name="telegram">https://telegram.me/animebinge_app</string>
+    <string name="github">https://github.com/animebinge-app/animebinge</string>
 
     <string name="home">Home</string>
     <string name="anime">Anime</string>
@@ -140,15 +140,15 @@
     <string name="theme">Theme</string>
     <string name="ui_settings">UI Settings</string>
     <string name="about">About</string>
-    <string name="desc">\u0008\u0008\u0008 gojo is crafted based on simplistic yet state-of-the-art elegance. It is an Anilist only client, which also lets you stream-download Anime &amp; Manga.\ngojo literally means the \"best\" in japanese. Well, we would like to say this is the best open source app for anime and manga on Android, what would you say?</string>
+    <string name="desc">\u0008\u0008\u0008 animebinge is crafted based on simplistic yet state-of-the-art elegance. It is an Anilist only client, which also lets you stream-download Anime &amp; Manga.\nanimebinge literally means the \"best\" in japanese. Well, we would like to say this is the best open source app for anime and manga on Android, what would you say?</string>
     <string name="devs">Developers</string>
     <string name="disclaimer">Disclaimer</string>
     <string name="full_disclaimer">
-         - gojo only scrapes links from various websites and makes it easier for users to find anime and manga.
-        \n\n - gojo or any of its developer/staff doesn\'t host any of the contents found inside gojo. Any and all images and anime/manga information found in the app are taken from various public APIs (AniList, MyAnimeList, Kitsu).
-        \n\n - Furthermore, all of the anime/manga links found in gojo are taken from various 3rd party anime hosting websites.
-        \n\n - gojo or it\'s owners aren\'t liable for any misuse of any of the contents found inside or outside of the app and cannot be held accountable for the distribution of any of the contents found inside the app.
-        \n\n - By using gojo, you comply to the fact that the developer of the app is not responsible for any of the contents found in the app; nonetheless they may or may not be from their legitimate sources.
+         - animebinge only scrapes links from various websites and makes it easier for users to find anime and manga.
+        \n\n - animebinge or any of its developer/staff doesn\'t host any of the contents found inside animebinge. Any and all images and anime/manga information found in the app are taken from various public APIs (AniList, MyAnimeList, Kitsu).
+        \n\n - Furthermore, all of the anime/manga links found in animebinge are taken from various 3rd party anime hosting websites.
+        \n\n - animebinge or it\'s owners aren\'t liable for any misuse of any of the contents found inside or outside of the app and cannot be held accountable for the distribution of any of the contents found inside the app.
+        \n\n - By using animebinge, you comply to the fact that the developer of the app is not responsible for any of the contents found in the app; nonetheless they may or may not be from their legitimate sources.
         \n\n - If the internet infringement issues are involved, please contact the source website. The developer does not assume any legal responsibility.
     </string>
     <string name="version_current">Version %1$s</string>
@@ -162,7 +162,7 @@
         <item>Damn, why are you wasting your Time?</item>
         <item>Looks like someone likes this Animation.</item>
         <item>You can Long Click to copy this Message.</item>
-        <item>gojo!</item>
+        <item>animebinge!</item>
         <item>OMG LOOK YOU! FOUND AN EASTER EGG!?!?</item>
         <item>You know who else likes this Animation?</item>
         <item>My Mom!</item>
@@ -298,7 +298,7 @@
     <string name="requires_time_stamps_to_be_enabled">Requires Time Stamps to be Enabled</string>
     <string name="total_repeats">TOTAL REPEATS</string>
     <string name="custom_lists">Custom Lists</string>
-    <string name="donate_desc">Want to support gojo\'s Creator?\nConsider Donating</string>
+    <string name="donate_desc">Want to support animebinge\'s Creator?\nConsider Donating</string>
     <string name="donate_goal">(We just reached a goal of $100!)</string>
     <string name="filter">Filter</string>
     <string name="year">Year</string>
