@@ -1,5 +1,5 @@
 <resources>
-    <style name="Theme.gojo" parent="Theme.Base">
+    <style name="Theme.Gojo" parent="Theme.Base">
         <item name="android:statusBarColor">@color/status</item>
         <item name="colorPrimary">@color/pink_200</item>
         <item name="colorOnPrimary">@color/bg_black</item>
