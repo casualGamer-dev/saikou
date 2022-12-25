@@ -48,7 +48,6 @@ import ani.animebinge.anilist.api.FuzzyDate
 import ani.animebinge.anime.Episode
 import ani.animebinge.databinding.ItemCountDownBinding
 import ani.animebinge.media.Media
-import ani.animebinge.others.DisabledReports
 import ani.animebinge.parsers.ShowResponse
 import ani.animebinge.settings.UserInterfaceSettings
 import com.bumptech.glide.Glide
@@ -473,7 +472,7 @@ class App : MultiDexApplication() {
         super.onCreate()
         registerActivityLifecycleCallbacks(mFTActivityLifecycleCallbacks)
 
-        Firebase.crashlytics.setCrashlyticsCollectionEnabled(!DisabledReports)
+    
         initializeNetwork(baseContext)
 
     }
