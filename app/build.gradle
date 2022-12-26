@@ -20,9 +20,6 @@ android {
     }
 
     buildTypes {
-        debug {
-            applicationIdSuffix ".beta"
-        }
         release {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }

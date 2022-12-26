@@ -45,7 +45,6 @@ class AnilistHomeViewModel : ViewModel() {
 
     suspend fun loadMain(context: FragmentActivity) {
         Anilist.getSavedToken(context)
-        AppUpdater.check(context)
         genres.postValue(Anilist.query.getGenresAndTags(context))
     }
 
