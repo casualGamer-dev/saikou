@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "992313394055",
-    "project_id": "anime-dd9be",
-    "storage_bucket": "anime-dd9be.appspot.com"
+    "project_number": "536323279311",
+    "project_id": "animebinge-83086",
+    "storage_bucket": "animebinge-83086.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:992313394055:android:299019248debfcd2dd0922",
+        "mobilesdk_app_id": "1:536323279311:android:fad910107db305f95baaba",
         "android_client_info": {
           "package_name": "ani.animebinge"
         }
       },
       "oauth_client": [
         {
-          "client_id": "992313394055-85rva36mneipilld994cv08t8pp81umd.apps.googleusercontent.com",
+          "client_id": "536323279311-2afmk7psdplj4md4rddnidugvlcni33m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyADvUfjCSCsd6pG82vaEDqGVvfm4NcjN4U"
+          "current_key": "AIzaSyAtcCtJSMaYCuTwzdzSyjVaNZi65Z-SXw8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "992313394055-85rva36mneipilld994cv08t8pp81umd.apps.googleusercontent.com",
+              "client_id": "536323279311-2afmk7psdplj4md4rddnidugvlcni33m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
