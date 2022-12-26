@@ -5,7 +5,6 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import ani.animebinge.media.Media
-import ani.animebinge.others.AppUpdater
 import ani.animebinge.toastString
 
 
